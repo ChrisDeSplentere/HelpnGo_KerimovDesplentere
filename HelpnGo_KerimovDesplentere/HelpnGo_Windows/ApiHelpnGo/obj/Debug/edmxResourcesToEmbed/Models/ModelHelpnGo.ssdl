@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bd_helpngoModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="Label" />
+    </Key>
+    <Property Name="Label" Type="varchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityType Name="city">
+    <Key>
+      <PropertyRef Name="City_id" />
+    </Key>
+    <Property Name="City_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Postal_code" Type="decimal" Precision="4" Scale="0" Nullable="false" />
+    <Property Name="Country" Type="varchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityType Name="province">
+    <Key>
+      <PropertyRef Name="Label" />
+    </Key>
+    <Property Name="Label" Type="varchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityType Name="publication">
+    <Key>
+      <PropertyRef Name="Publication_id" />
+    </Key>
+    <Property Name="Publication_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="300" Nullable="false" />
+    <Property Name="Phone_number" Type="varchar" MaxLength="20" />
+    <Property Name="Email" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Author_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Category_label" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Province_label" Type="varchar" MaxLength="40" />
+    <Property Name="Is_offer" Type="bool" Nullable="false" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="User_id" />
+    </Key>
+    <Property Name="User_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+    <Property Name="Firstname" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Lastname" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Date_of_birth" Type="date" />
+    <Property Name="Street_name" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Street_number" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="Phone_number" Type="varchar" MaxLength="20" />
+    <Property Name="Diplomas" Type="varchar" MaxLength="100" />
+    <Property Name="Jobs" Type="varchar" MaxLength="100" />
+    <Property Name="Living_city_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+  </EntityType>
+  <Association Name="REF_Publi_Categ_FK">
+    <End Role="category" Type="Self.category" Multiplicity="1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="Label" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Category_label" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_Publi_Provi_FK">
+    <End Role="province" Type="Self.province" Multiplicity="0..1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="province">
+        <PropertyRef Name="Label" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Province_label" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_Publi_User_FK">
+    <End Role="user" Type="Self.user" Multiplicity="1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="User_id" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Author_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_User_City_FK">
+    <End Role="city" Type="Self.city" Multiplicity="1" />
+    <End Role="user" Type="Self.user" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="City_id" />
+      </Principal>
+      <Dependent Role="user">
+        <PropertyRef Name="Living_city_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bd_helpngoModelStoreContainer">
+    <EntitySet Name="category" EntityType="Self.category" Schema="bd_helpngo" store:Type="Tables" />
+    <EntitySet Name="city" EntityType="Self.city" Schema="bd_helpngo" store:Type="Tables" />
+    <EntitySet Name="province" EntityType="Self.province" Schema="bd_helpngo" store:Type="Tables" />
+    <EntitySet Name="publication" EntityType="Self.publication" Schema="bd_helpngo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="bd_helpngo" store:Type="Tables" />
+    <AssociationSet Name="REF_Publi_Categ_FK" Association="Self.REF_Publi_Categ_FK">
+      <End Role="category" EntitySet="category" />
+      <End Role="publication" EntitySet="publication" />
+    </AssociationSet>
+    <AssociationSet Name="REF_Publi_Provi_FK" Association="Self.REF_Publi_Provi_FK">
+      <End Role="province" EntitySet="province" />
+      <End Role="publication" EntitySet="publication" />
+    </AssociationSet>
+    <AssociationSet Name="REF_Publi_User_FK" Association="Self.REF_Publi_User_FK">
+      <End Role="user" EntitySet="user" />
+      <End Role="publication" EntitySet="publication" />
+    </AssociationSet>
+    <AssociationSet Name="REF_User_City_FK" Association="Self.REF_User_City_FK">
+      <End Role="city" EntitySet="city" />
+      <End Role="user" EntitySet="user" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

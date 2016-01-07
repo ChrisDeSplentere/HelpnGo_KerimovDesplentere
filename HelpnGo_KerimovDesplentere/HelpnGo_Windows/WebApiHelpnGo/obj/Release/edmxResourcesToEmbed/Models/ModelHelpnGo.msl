@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bd_helpngoModelStoreContainer" CdmEntityContainer="bd_helpngoEntities">
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="bd_helpngoModel.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="Label" ColumnName="Label" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cities">
+      <EntityTypeMapping TypeName="bd_helpngoModel.city">
+        <MappingFragment StoreEntitySet="city">
+          <ScalarProperty Name="City_id" ColumnName="City_id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Postal_code" ColumnName="Postal_code" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="provinces">
+      <EntityTypeMapping TypeName="bd_helpngoModel.province">
+        <MappingFragment StoreEntitySet="province">
+          <ScalarProperty Name="Label" ColumnName="Label" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="publications">
+      <EntityTypeMapping TypeName="bd_helpngoModel.publication">
+        <MappingFragment StoreEntitySet="publication">
+          <ScalarProperty Name="Publication_id" ColumnName="Publication_id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Author_id" ColumnName="Author_id" />
+          <ScalarProperty Name="Category_label" ColumnName="Category_label" />
+          <ScalarProperty Name="Province_label" ColumnName="Province_label" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="bd_helpngoModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="User_id" ColumnName="User_id" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Date_of_birth" ColumnName="Date_of_birth" />
+          <ScalarProperty Name="Street_name" ColumnName="Street_name" />
+          <ScalarProperty Name="Street_number" ColumnName="Street_number" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+          <ScalarProperty Name="Diplomas" ColumnName="Diplomas" />
+          <ScalarProperty Name="Jobs" ColumnName="Jobs" />
+          <ScalarProperty Name="Living_city_id" ColumnName="Living_city_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

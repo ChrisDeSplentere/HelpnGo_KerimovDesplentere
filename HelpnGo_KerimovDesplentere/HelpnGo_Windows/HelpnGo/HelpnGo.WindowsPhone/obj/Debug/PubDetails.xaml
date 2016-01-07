@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="HelpnGo.PubDetails"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelpnGo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding Source={StaticResource Locator}, Path=PubDet}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="title" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Title}" VerticalAlignment="Top" FontSize="30"/>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <TextBlock x:Name="pubTypeLabel" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap"
+                           x:Uid="pubTypeLabel" Text="Type : " VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock x:Name="pubType" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Type}" VerticalAlignment="Center" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBlock x:Name="pubCategoryLabel" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap"
+                           x:Uid="pubCategoryLabel" Text="Category : " VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock x:Name="pubCategory" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Category_label}" VerticalAlignment="Center" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <TextBlock x:Name="pubProvinceLabel" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap"
+                           x:Uid="pubProvinceLabel" Text="Province : " VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock x:Name="pubProvince" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Province_label}" VerticalAlignment="Center" FontSize="20"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="pubDescrLabel" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap"
+                       x:Uid="pubDescrLabel" Text="Description : " VerticalAlignment="Center" FontSize="20"/>
+            <TextBlock x:Name="pubDescr" Grid.Row="1" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Description}" VerticalAlignment="Center" FontSize="20"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="pubContactMeLabel" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap"
+                       x:Uid="pubContactMeLabel" Text="Contact me : " VerticalAlignment="Center" FontSize="20"/>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBlock x:Name="pubEmailLabel" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap"
+                           x:Uid="pubEmailLabel" Text="Email : " VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock x:Name="pubEmail" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Email}" VerticalAlignment="Center" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <TextBlock x:Name="pubPhoneLabel" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap"
+                           x:Uid="pubPhoneLabel" Text="Phone number : " VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock x:Name="pubPhone" HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding SelectedPub.Phone_number}" VerticalAlignment="Center" FontSize="20"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
+

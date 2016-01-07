@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="bd_helpngoModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="category">
+          <Key>
+            <PropertyRef Name="Label" />
+          </Key>
+          <Property Name="Label" Type="varchar" MaxLength="40" Nullable="false" />
+        </EntityType>
+        <EntityType Name="city">
+          <Key>
+            <PropertyRef Name="City_id" />
+          </Key>
+          <Property Name="City_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="Postal_code" Type="decimal" Precision="4" Scale="0" Nullable="false" />
+          <Property Name="Country" Type="varchar" MaxLength="40" Nullable="false" />
+        </EntityType>
+        <EntityType Name="province">
+          <Key>
+            <PropertyRef Name="Label" />
+          </Key>
+          <Property Name="Label" Type="varchar" MaxLength="40" Nullable="false" />
+        </EntityType>
+        <EntityType Name="publication">
+          <Key>
+            <PropertyRef Name="Publication_id" />
+          </Key>
+          <Property Name="Publication_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Title" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Description" Type="varchar" MaxLength="300" Nullable="false" />
+          <Property Name="Phone_number" Type="varchar" MaxLength="20" />
+          <Property Name="Email" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="Author_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Category_label" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="Province_label" Type="varchar" MaxLength="40" />
+          <Property Name="Is_offer" Type="bool" Nullable="false" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="User_id" />
+          </Key>
+          <Property Name="User_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+          <Property Name="Firstname" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="Lastname" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="Date_of_birth" Type="date" />
+          <Property Name="Street_name" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="Street_number" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="Email" Type="varchar" MaxLength="40" Nullable="false" />
+          <Property Name="password" Type="varchar" MaxLength="500" Nullable="false" />
+          <Property Name="Phone_number" Type="varchar" MaxLength="20" />
+          <Property Name="Diplomas" Type="varchar" MaxLength="100" />
+          <Property Name="Jobs" Type="varchar" MaxLength="100" />
+          <Property Name="Living_city_id" Type="decimal" Precision="8" Scale="0" Nullable="false" />
+        </EntityType>
+        <Association Name="REF_Publi_Categ_FK">
+          <End Role="category" Type="Self.category" Multiplicity="1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="category">
+              <PropertyRef Name="Label" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Category_label" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_Publi_Provi_FK">
+          <End Role="province" Type="Self.province" Multiplicity="0..1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="province">
+              <PropertyRef Name="Label" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Province_label" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_Publi_User_FK">
+          <End Role="user" Type="Self.user" Multiplicity="1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="user">
+              <PropertyRef Name="User_id" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Author_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_User_City_FK">
+          <End Role="city" Type="Self.city" Multiplicity="1" />
+          <End Role="user" Type="Self.user" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="city">
+              <PropertyRef Name="City_id" />
+            </Principal>
+            <Dependent Role="user">
+              <PropertyRef Name="Living_city_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="bd_helpngoModelStoreContainer">
+          <EntitySet Name="category" EntityType="Self.category" Schema="bd_helpngo" store:Type="Tables" />
+          <EntitySet Name="city" EntityType="Self.city" Schema="bd_helpngo" store:Type="Tables" />
+          <EntitySet Name="province" EntityType="Self.province" Schema="bd_helpngo" store:Type="Tables" />
+          <EntitySet Name="publication" EntityType="Self.publication" Schema="bd_helpngo" store:Type="Tables" />
+          <EntitySet Name="user" EntityType="Self.user" Schema="bd_helpngo" store:Type="Tables" />
+          <AssociationSet Name="REF_Publi_Categ_FK" Association="Self.REF_Publi_Categ_FK">
+            <End Role="category" EntitySet="category" />
+            <End Role="publication" EntitySet="publication" />
+          </AssociationSet>
+          <AssociationSet Name="REF_Publi_Provi_FK" Association="Self.REF_Publi_Provi_FK">
+            <End Role="province" EntitySet="province" />
+            <End Role="publication" EntitySet="publication" />
+          </AssociationSet>
+          <AssociationSet Name="REF_Publi_User_FK" Association="Self.REF_Publi_User_FK">
+            <End Role="user" EntitySet="user" />
+            <End Role="publication" EntitySet="publication" />
+          </AssociationSet>
+          <AssociationSet Name="REF_User_City_FK" Association="Self.REF_User_City_FK">
+            <End Role="city" EntitySet="city" />
+            <End Role="user" EntitySet="user" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="bd_helpngoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="category">
+          <Key>
+            <PropertyRef Name="Label" />
+          </Key>
+          <Property Name="Label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="publications" Relationship="Self.REF_Publi_Categ_FK" FromRole="category" ToRole="publication" />
+        </EntityType>
+        <EntityType Name="city">
+          <Key>
+            <PropertyRef Name="City_id" />
+          </Key>
+          <Property Name="City_id" Type="Decimal" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Postal_code" Type="Decimal" Nullable="false" />
+          <Property Name="Country" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="users" Relationship="Self.REF_User_City_FK" FromRole="city" ToRole="user" />
+        </EntityType>
+        <EntityType Name="province">
+          <Key>
+            <PropertyRef Name="Label" />
+          </Key>
+          <Property Name="Label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="publications" Relationship="Self.REF_Publi_Provi_FK" FromRole="province" ToRole="publication" />
+        </EntityType>
+        <EntityType Name="publication">
+          <Key>
+            <PropertyRef Name="Publication_id" />
+          </Key>
+          <Property Name="Publication_id" Type="Decimal" Nullable="false" />
+          <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="300" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Author_id" Type="Decimal" Nullable="false" />
+          <Property Name="Category_label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Province_label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="Is_offer" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="category" Relationship="Self.REF_Publi_Categ_FK" FromRole="publication" ToRole="category" />
+          <NavigationProperty Name="province" Relationship="Self.REF_Publi_Provi_FK" FromRole="publication" ToRole="province" />
+          <NavigationProperty Name="user" Relationship="Self.REF_Publi_User_FK" FromRole="publication" ToRole="user" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="User_id" />
+          </Key>
+          <Property Name="User_id" Type="Decimal" Nullable="false" />
+          <Property Name="Firstname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Lastname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Date_of_birth" Type="DateTime" />
+          <Property Name="Street_name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Street_number" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Diplomas" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Jobs" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Living_city_id" Type="Decimal" Nullable="false" />
+          <NavigationProperty Name="city" Relationship="Self.REF_User_City_FK" FromRole="user" ToRole="city" />
+          <NavigationProperty Name="publications" Relationship="Self.REF_Publi_User_FK" FromRole="user" ToRole="publication" />
+        </EntityType>
+        <Association Name="REF_Publi_Categ_FK">
+          <End Role="category" Type="Self.category" Multiplicity="1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="category">
+              <PropertyRef Name="Label" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Category_label" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_User_City_FK">
+          <End Role="city" Type="Self.city" Multiplicity="1" />
+          <End Role="user" Type="Self.user" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="city">
+              <PropertyRef Name="City_id" />
+            </Principal>
+            <Dependent Role="user">
+              <PropertyRef Name="Living_city_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_Publi_Provi_FK">
+          <End Role="province" Type="Self.province" Multiplicity="0..1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="province">
+              <PropertyRef Name="Label" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Province_label" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="REF_Publi_User_FK">
+          <End Role="user" Type="Self.user" Multiplicity="1" />
+          <End Role="publication" Type="Self.publication" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="user">
+              <PropertyRef Name="User_id" />
+            </Principal>
+            <Dependent Role="publication">
+              <PropertyRef Name="Author_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="bd_helpngoEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="categories" EntityType="Self.category" />
+          <EntitySet Name="cities" EntityType="Self.city" />
+          <EntitySet Name="provinces" EntityType="Self.province" />
+          <EntitySet Name="publications" EntityType="Self.publication" />
+          <EntitySet Name="users" EntityType="Self.user" />
+          <AssociationSet Name="REF_Publi_Categ_FK" Association="Self.REF_Publi_Categ_FK">
+            <End Role="category" EntitySet="categories" />
+            <End Role="publication" EntitySet="publications" />
+          </AssociationSet>
+          <AssociationSet Name="REF_User_City_FK" Association="Self.REF_User_City_FK">
+            <End Role="city" EntitySet="cities" />
+            <End Role="user" EntitySet="users" />
+          </AssociationSet>
+          <AssociationSet Name="REF_Publi_Provi_FK" Association="Self.REF_Publi_Provi_FK">
+            <End Role="province" EntitySet="provinces" />
+            <End Role="publication" EntitySet="publications" />
+          </AssociationSet>
+          <AssociationSet Name="REF_Publi_User_FK" Association="Self.REF_Publi_User_FK">
+            <End Role="user" EntitySet="users" />
+            <End Role="publication" EntitySet="publications" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="bd_helpngoModelStoreContainer" CdmEntityContainer="bd_helpngoEntities">
+          <EntitySetMapping Name="categories">
+            <EntityTypeMapping TypeName="bd_helpngoModel.category">
+              <MappingFragment StoreEntitySet="category">
+                <ScalarProperty Name="Label" ColumnName="Label" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="cities">
+            <EntityTypeMapping TypeName="bd_helpngoModel.city">
+              <MappingFragment StoreEntitySet="city">
+                <ScalarProperty Name="City_id" ColumnName="City_id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Postal_code" ColumnName="Postal_code" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="provinces">
+            <EntityTypeMapping TypeName="bd_helpngoModel.province">
+              <MappingFragment StoreEntitySet="province">
+                <ScalarProperty Name="Label" ColumnName="Label" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="publications">
+            <EntityTypeMapping TypeName="bd_helpngoModel.publication">
+              <MappingFragment StoreEntitySet="publication">
+                <ScalarProperty Name="Publication_id" ColumnName="Publication_id" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Author_id" ColumnName="Author_id" />
+                <ScalarProperty Name="Category_label" ColumnName="Category_label" />
+                <ScalarProperty Name="Province_label" ColumnName="Province_label" />
+                <ScalarProperty Name="Is_offer" ColumnName="Is_offer" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="bd_helpngoModel.user">
+              <MappingFragment StoreEntitySet="user">
+                <ScalarProperty Name="User_id" ColumnName="User_id" />
+                <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+                <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+                <ScalarProperty Name="Date_of_birth" ColumnName="Date_of_birth" />
+                <ScalarProperty Name="Street_name" ColumnName="Street_name" />
+                <ScalarProperty Name="Street_number" ColumnName="Street_number" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+                <ScalarProperty Name="Diplomas" ColumnName="Diplomas" />
+                <ScalarProperty Name="Jobs" ColumnName="Jobs" />
+                <ScalarProperty Name="Living_city_id" ColumnName="Living_city_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="demand" xml:space="preserve">
+    <value>Demand</value>
+  </data>
+  <data name="offer" xml:space="preserve">
+    <value>Offer</value>
+  </data>
+  <data name="Account_successfully_created" xml:space="preserve">
+    <value>Account successfully created</value>
+  </data>
+  <data name="An_error_occurred_during_account_creation" xml:space="preserve">
+    <value>An error occurred during account creation</value>
+  </data>
+  <data name="Please_fill_all_compulsory_fields" xml:space="preserve">
+    <value>Please fill all compulsory fields</value>
+  </data>
+  <data name="Wrong_password_confirmation" xml:space="preserve">
+    <value>Wrong password confirmation</value>
+  </data>
+  <data name="Lastname_is_too_long" xml:space="preserve">
+    <value>Lastname is too long</value>
+  </data>
+  <data name="Firstname_is_too_long" xml:space="preserve">
+    <value>Firstname is too long</value>
+  </data>
+  <data name="Street_number_is_too_long" xml:space="preserve">
+    <value>Street number is too long</value>
+  </data>
+  <data name="Street_name_is_too_long" xml:space="preserve">
+    <value>Street name is too long</value>
+  </data>
+  <data name="Email_address_is_too_long" xml:space="preserve">
+    <value>Email address is too long</value>
+  </data>
+  <data name="Invalid_email_address" xml:space="preserve">
+    <value>Invalid email address</value>
+  </data>
+  <data name="Password_is_too_long" xml:space="preserve">
+    <value>Password is too long</value>
+  </data>
+  <data name="Phone_number_is_too_long" xml:space="preserve">
+    <value>Phone number is too long</value>
+  </data>
+  <data name="Phone_number_is_too_short" xml:space="preserve">
+    <value>Phone number is too short</value>
+  </data>
+  <data name="Jobs_description_is_too_long" xml:space="preserve">
+    <value>Jobs description is too long</value>
+  </data>
+  <data name="Diplomas_description_is_too_long" xml:space="preserve">
+    <value>Diplomas description is too long</value>
+  </data>
+  <data name="Publication_successfully_created" xml:space="preserve">
+    <value>Publication successfully created</value>
+  </data>
+  <data name="An_error_occurred_during_publication_creation" xml:space="preserve">
+    <value>An error occurred during publication creation</value>
+  </data>
+  <data name="Title_is_too_long" xml:space="preserve">
+    <value>Title is too long</value>
+  </data>
+  <data name="Description_is_too_long" xml:space="preserve">
+    <value>Description is too long</value>
+  </data>
+  <data name="Email_is_too_long" xml:space="preserve">
+    <value>Email is too long</value>
+  </data>
+  <data name="Wrong_email_address" xml:space="preserve">
+    <value>Wrong email address</value>
+  </data>
+  <data name="Wrong_password" xml:space="preserve">
+    <value>Wrong password</value>
+  </data>
+  <data name="Publication_successfully_modified" xml:space="preserve">
+    <value>Publication successfully modified</value>
+  </data>
+  <data name="An_error_occurred_during_publication_modification" xml:space="preserve">
+    <value>An error occurred during publication modification</value>
+  </data>
+  <data name="Publication_successfully_deleted" xml:space="preserve">
+    <value>Publication successfully deleted</value>
+  </data>
+  <data name="An_error_occurred_during_publication_removal" xml:space="preserve">
+    <value>An error occurred during publication removal</value>
+  </data>
+  <data name="Create_new_user.Text" xml:space="preserve">
+    <value>Create an account</value>
+  </data>
+  <data name="Category.Text" xml:space="preserve">
+    <value>Category :</value>
+  </data>
+  <data name="Publication_list.Text" xml:space="preserve">
+    <value>Publications list :</value>
+  </data>
+  <data name="Province.Text" xml:space="preserve">
+    <value>Province :</value>
+  </data>
+  <data name="Results.Text" xml:space="preserve">
+    <value>Results :</value>
+  </data>
+  <data name="seeDetails.Content" xml:space="preserve">
+    <value>See details</value>
+  </data>
+  <data name="search.Content" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="logOut.Label" xml:space="preserve">
+    <value>Log out</value>
+  </data>
+  <data name="checkOffers.Content" xml:space="preserve">
+    <value>Offers</value>
+  </data>
+  <data name="checkDemands.Content" xml:space="preserve">
+    <value>Demands</value>
+  </data>
+  <data name="lastNameBox.PlaceholderText" xml:space="preserve">
+    <value>Lastname*</value>
+  </data>
+  <data name="firstNameBox.PlaceholderText" xml:space="preserve">
+    <value>Firstname*</value>
+  </data>
+  <data name="phoneNumberBox.PlaceholderText" xml:space="preserve">
+    <value>Phone number</value>
+  </data>
+  <data name="diplomasBox.PlaceholderText" xml:space="preserve">
+    <value>Diploma(s)</value>
+  </data>
+  <data name="jobsBox.PlaceholderText" xml:space="preserve">
+    <value>Job(s)</value>
+  </data>
+  <data name="emailBox.PlaceholderText" xml:space="preserve">
+    <value>Email**</value>
+  </data>
+  <data name="passwordBox.PlaceholderText" xml:space="preserve">
+    <value>Password**</value>
+  </data>
+  <data name="confPasswordBox.PlaceholderText" xml:space="preserve">
+    <value>Confirm password**</value>
+  </data>
+  <data name="dateLabelBlock.Text" xml:space="preserve">
+    <value>Date of birth* :</value>
+  </data>
+  <data name="streetBox.PlaceholderText" xml:space="preserve">
+    <value>Street*</value>
+  </data>
+  <data name="streetNumberBox.PlaceholderText" xml:space="preserve">
+    <value>Street number*</value>
+  </data>
+  <data name="villeBlockBlock.Text" xml:space="preserve">
+    <value>City* :</value>
+  </data>
+  <data name="titleMyAccount.Text" xml:space="preserve">
+    <value>My account</value>
+  </data>
+  <data name="titleIdentification.Text" xml:space="preserve">
+    <value>Identification</value>
+  </data>
+  <data name="idenEmail.PlaceholderText" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="idenPassword.PlaceholderText" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="logIn.Content" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="createAccount.Content" xml:space="preserve">
+    <value>Create an account</value>
+  </data>
+  <data name="Create_publication.Text" xml:space="preserve">
+    <value>Create a publication</value>
+  </data>
+  <data name="CategoryMand.Text" xml:space="preserve">
+    <value>Category* :</value>
+  </data>
+  <data name="ProvinceMand.Text" xml:space="preserve">
+    <value>Province* :</value>
+  </data>
+  <data name="pubTitleBox.PlaceholderText" xml:space="preserve">
+    <value>Title*</value>
+  </data>
+  <data name="pubDescrBox.PlaceholderText" xml:space="preserve">
+    <value>Description*</value>
+  </data>
+  <data name="pubEmailBox.PlaceholderText" xml:space="preserve">
+    <value>Email*</value>
+  </data>
+  <data name="pubPhoneBox.PlaceholderText" xml:space="preserve">
+    <value>Phone number</value>
+  </data>
+  <data name="remarkBlock.Text" xml:space="preserve">
+    <value>* : compulsory field</value>
+  </data>
+  <data name="pubTypeLabel.Text" xml:space="preserve">
+    <value>Type : </value>
+  </data>
+  <data name="pubCategoryLabel.Text" xml:space="preserve">
+    <value>Category : </value>
+  </data>
+  <data name="pubProvinceLabel.Text" xml:space="preserve">
+    <value>Province : </value>
+  </data>
+  <data name="pubDescrLabel.Text" xml:space="preserve">
+    <value>Description : </value>
+  </data>
+  <data name="pubContactMeLabel.Text" xml:space="preserve">
+    <value>Contact me : </value>
+  </data>
+  <data name="pubEmailLabel.Text" xml:space="preserve">
+    <value>Email : </value>
+  </data>
+  <data name="pubPhoneLabel.Text" xml:space="preserve">
+    <value>Phone number : </value>
+  </data>
+  <data name="titleModifyPublication.Text" xml:space="preserve">
+    <value>Modify a publication</value>
+  </data>
+  <data name="Email_already_used" xml:space="preserve">
+    <value>This email address is already used</value>
+  </data>
+  <data name="remark2Block.Text" xml:space="preserve">
+    <value>** : identification field</value>
+  </data>
+</root>

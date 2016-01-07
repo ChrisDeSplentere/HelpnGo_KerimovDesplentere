@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PORTABLE-CHRIS</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>a390012e-9b15-4613-8587-d85c744c0920</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\HelpnGo.WindowsPhone.exe">
+      <PackagePath>HelpnGo.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\HelpnGo.WindowsPhone.xr.xml">
+      <PackagePath>HelpnGo.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\AccountCreation.xbf">
+      <PackagePath>AccountCreation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\AccountManagement.xbf">
+      <PackagePath>AccountManagement.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\PublicationCreation.xbf">
+      <PackagePath>PublicationCreation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\PublicationDetails.xbf">
+      <PackagePath>PublicationDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\PublicationModification.xbf">
+      <PackagePath>PublicationModification.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

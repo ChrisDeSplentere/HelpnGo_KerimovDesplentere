@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="HelpnGoWebApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Chris\\Desktop\\HelpnGo_WinV6\\HelpnGo_Windows\\WebApiHelpnGo\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Chris\\Desktop\\HelpnGo_WinV6\\HelpnGo_Windows\\WebApiHelpnGo\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="bd_helpngoEntities-Web.config Connection String" description="" value="metadata=res://*/Models.ModelHelpnGo.csdl|res://*/Models.ModelHelpnGo.ssdl|res://*/Models.ModelHelpnGo.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=br-cdbr-azure-south-a.cloudapp.net;user id=b33a657d521577;password=14a87741;database=bd_helpngo&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Chris\\Desktop\\HelpnGo_WinV6\\HelpnGo_Windows\\WebApiHelpnGo\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bd_helpngoEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bd_helpngoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="Label" />
+    </Key>
+    <Property Name="Label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="publications" Relationship="Self.REF_Publi_Categ_FK" FromRole="category" ToRole="publication" />
+  </EntityType>
+  <EntityType Name="city">
+    <Key>
+      <PropertyRef Name="City_id" />
+    </Key>
+    <Property Name="City_id" Type="Decimal" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Postal_code" Type="Decimal" Nullable="false" />
+    <Property Name="Country" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="users" Relationship="Self.REF_User_City_FK" FromRole="city" ToRole="user" />
+  </EntityType>
+  <EntityType Name="province">
+    <Key>
+      <PropertyRef Name="Label" />
+    </Key>
+    <Property Name="Label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="publications" Relationship="Self.REF_Publi_Provi_FK" FromRole="province" ToRole="publication" />
+  </EntityType>
+  <EntityType Name="publication">
+    <Key>
+      <PropertyRef Name="Publication_id" />
+    </Key>
+    <Property Name="Publication_id" Type="Decimal" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="300" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Author_id" Type="Decimal" Nullable="false" />
+    <Property Name="Category_label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Province_label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Is_offer" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="category" Relationship="Self.REF_Publi_Categ_FK" FromRole="publication" ToRole="category" />
+    <NavigationProperty Name="province" Relationship="Self.REF_Publi_Provi_FK" FromRole="publication" ToRole="province" />
+    <NavigationProperty Name="user" Relationship="Self.REF_Publi_User_FK" FromRole="publication" ToRole="user" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="User_id" />
+    </Key>
+    <Property Name="User_id" Type="Decimal" Nullable="false" />
+    <Property Name="Firstname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Lastname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Date_of_birth" Type="DateTime" />
+    <Property Name="Street_name" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Street_number" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Diplomas" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Jobs" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Living_city_id" Type="Decimal" Nullable="false" />
+    <NavigationProperty Name="city" Relationship="Self.REF_User_City_FK" FromRole="user" ToRole="city" />
+    <NavigationProperty Name="publications" Relationship="Self.REF_Publi_User_FK" FromRole="user" ToRole="publication" />
+  </EntityType>
+  <Association Name="REF_Publi_Categ_FK">
+    <End Role="category" Type="Self.category" Multiplicity="1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="Label" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Category_label" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_User_City_FK">
+    <End Role="city" Type="Self.city" Multiplicity="1" />
+    <End Role="user" Type="Self.user" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="City_id" />
+      </Principal>
+      <Dependent Role="user">
+        <PropertyRef Name="Living_city_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_Publi_Provi_FK">
+    <End Role="province" Type="Self.province" Multiplicity="0..1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="province">
+        <PropertyRef Name="Label" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Province_label" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="REF_Publi_User_FK">
+    <End Role="user" Type="Self.user" Multiplicity="1" />
+    <End Role="publication" Type="Self.publication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="User_id" />
+      </Principal>
+      <Dependent Role="publication">
+        <PropertyRef Name="Author_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bd_helpngoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="categories" EntityType="Self.category" />
+    <EntitySet Name="cities" EntityType="Self.city" />
+    <EntitySet Name="provinces" EntityType="Self.province" />
+    <EntitySet Name="publications" EntityType="Self.publication" />
+    <EntitySet Name="users" EntityType="Self.user" />
+    <AssociationSet Name="REF_Publi_Categ_FK" Association="Self.REF_Publi_Categ_FK">
+      <End Role="category" EntitySet="categories" />
+      <End Role="publication" EntitySet="publications" />
+    </AssociationSet>
+    <AssociationSet Name="REF_User_City_FK" Association="Self.REF_User_City_FK">
+      <End Role="city" EntitySet="cities" />
+      <End Role="user" EntitySet="users" />
+    </AssociationSet>
+    <AssociationSet Name="REF_Publi_Provi_FK" Association="Self.REF_Publi_Provi_FK">
+      <End Role="province" EntitySet="provinces" />
+      <End Role="publication" EntitySet="publications" />
+    </AssociationSet>
+    <AssociationSet Name="REF_Publi_User_FK" Association="Self.REF_Publi_User_FK">
+      <End Role="user" EntitySet="users" />
+      <End Role="publication" EntitySet="publications" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

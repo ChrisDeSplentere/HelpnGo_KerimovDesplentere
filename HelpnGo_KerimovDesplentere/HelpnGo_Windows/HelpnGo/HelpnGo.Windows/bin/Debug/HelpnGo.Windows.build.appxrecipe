@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PORTABLE-CHRIS</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9986f6f1-6b89-48b7-83ea-5db3e2538633</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\HelpnGo.Windows.exe">
+      <PackagePath>HelpnGo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\HelpnGo.Windows.xr.xml">
+      <PackagePath>HelpnGo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\AccCreation.xbf">
+      <PackagePath>AccCreation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\AccManagement.xbf">
+      <PackagePath>AccManagement.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\Identification.xbf">
+      <PackagePath>Identification.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\PubCreation.xbf">
+      <PackagePath>PubCreation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\PubDetails.xbf">
+      <PackagePath>PubDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\PubModification.xbf">
+      <PackagePath>PubModification.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

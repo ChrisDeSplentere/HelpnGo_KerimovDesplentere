@@ -1,0 +1,606 @@
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\WrkFldr\HelpnGo\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountManagement.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationDetails.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows_Chris\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountManagement.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationDetails.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.i.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xaml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xbf
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\etu26154\Desktop\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.xaml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chris\Desktop\HelpnGo_WinV6\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccountManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PublicationModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.xaml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccountManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PublicationModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chris\Desktop\HelpnGo_AvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Identification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccCreation.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccManagement.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Identification.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubCreation.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubDetails.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubModification.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.i.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csproj.GenerateResource.Cache
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\WorkStuff\Windows Phone\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Identification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.i.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xaml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi verA4\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Identification.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.xr.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\HelpnGo.WindowsPhone.build.appxrecipe
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.i.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xaml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\AccManagement.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Identification.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubCreation.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubDetails.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\PubModification.xbf
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.exe
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.pdb
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\HelpnGo.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Chris\Desktop\HelpnGo_DerniereVersion_26Dec\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate

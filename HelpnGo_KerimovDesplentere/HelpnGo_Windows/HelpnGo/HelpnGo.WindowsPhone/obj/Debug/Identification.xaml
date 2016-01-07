@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="HelpnGo.Identification"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelpnGo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding Source={StaticResource Locator}, Path=Iden}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="title" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap"
+                   x:Uid="titleIdentification" Text="Identification" VerticalAlignment="Top" FontSize="30"/>
+        <TextBox x:Name="idenEmail" Text="{Binding EnteredEmail, Mode=TwoWay}" Grid.Row="1" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap"
+                 x:Uid="idenEmail" PlaceholderText="Email" VerticalAlignment="Center" Width="Auto"/>
+        <PasswordBox x:Name="idenPassword" Password="{Binding EnteredPassword, Mode=TwoWay}" PasswordChar="*" Grid.Row="2" HorizontalAlignment="Center" Margin="0,0,0,0"
+                 x:Uid="idenPassword" PlaceholderText="Password" VerticalAlignment="Top" Width="Auto"/>
+        <Button x:Name="logIn" Grid.Row="3" Command="{Binding LogIn}" x:Uid="logIn" Content="Log in" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="createAccount" Grid.Row="4" Command="{Binding CreateAccount}" x:Uid="createAccount"
+                Content="Create an account" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top"/>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:Name="Home" Icon="Home" Command="{Binding GoBackHome}">
+            </AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

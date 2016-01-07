@@ -1,0 +1,1 @@
+C:\Users\Chris\Desktop\EnvDev_HelpnGoAvecApi\HelpnGo_Windows\HelpnGo\HelpnGo.Windows\HelpnGo.Windows.csproj;x64

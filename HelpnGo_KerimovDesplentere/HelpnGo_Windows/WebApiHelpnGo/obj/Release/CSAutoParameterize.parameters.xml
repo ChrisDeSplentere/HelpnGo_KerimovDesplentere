@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="bd_helpngoEntities-Web.config Connection String" description="bd_helpngoEntities Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="metadata=res://*/Models.ModelHelpnGo.csdl|res://*/Models.ModelHelpnGo.ssdl|res://*/Models.ModelHelpnGo.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=br-cdbr-azure-south-a.cloudapp.net;user id=b33a657d521577;password=14a87741;database=bd_helpngo&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Chris\\Desktop\\HelpnGo_WinV6\\HelpnGo_Windows\\WebApiHelpnGo\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bd_helpngoEntities']/@connectionString" />
+  </parameter>
+</parameters>
